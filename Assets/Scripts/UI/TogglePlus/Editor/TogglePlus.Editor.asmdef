@@ -1,0 +1,17 @@
+{
+    "name": "TogglePlus.Editor",
+    "references": [
+        "GUID:30219da1cacb83a4d89c64aee6096acd"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

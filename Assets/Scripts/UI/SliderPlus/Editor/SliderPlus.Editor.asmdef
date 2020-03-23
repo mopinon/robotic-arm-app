@@ -1,0 +1,17 @@
+{
+    "name": "SliderPlus.Editor",
+    "references": [
+        "GUID:a1353137fc1b9384088ef809192f7ad5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

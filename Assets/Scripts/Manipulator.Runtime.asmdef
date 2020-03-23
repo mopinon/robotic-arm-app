@@ -1,0 +1,23 @@
+{
+    "name": "Manipulator.Runtime",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:a16031c64943f6843905d917f7e27006",
+        "GUID:217c8807224d94c49af8223b6a5a6900",
+        "GUID:68550284b645f4b9894995579f34290a",
+        "GUID:bf26f36fbb3605a409b56708b87e55b5",
+        "GUID:a1353137fc1b9384088ef809192f7ad5",
+        "GUID:30219da1cacb83a4d89c64aee6096acd",
+        "GUID:4a0d205bd9a599d47aa91f8e0f2f98fa",
+        "GUID:0aa26ca9d44a5dc458683fffa4ab2538"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

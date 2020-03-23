@@ -1,0 +1,8 @@
+RotateAllRelative 180 180 180 180 180 3
+WaitNew 2000
+RotateAllAbsolute 0 0 0 0 0 2
+WaitNew 1000
+RotateRelative 0 30 1
+RotateAbsolute 0 75 2
+MoveToPointAbsolute 0,3 0,3 0,3 3
+MoveToPointAbsolute 0,1 -0,2 -0,4 3

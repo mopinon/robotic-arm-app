@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d3b9a3f88da6fc941ace635d625c8a87
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Base: {instanceID: 0}
+  - Shoulder1: {instanceID: 0}
+  - Shoulder2: {instanceID: 0}
+  - Shoulder3: {instanceID: 0}
+  - Shoulder4: {instanceID: 0}
+  - Shoulder5: {instanceID: 0}
+  - Claw: {instanceID: 0}
+  - ClawRight: {instanceID: 0}
+  - ClawLeft: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

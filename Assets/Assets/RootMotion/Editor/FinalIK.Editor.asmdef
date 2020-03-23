@@ -1,0 +1,16 @@
+{
+    "name": "FinalIK.Editor",
+    "references": [
+        "GUID:a16031c64943f6843905d917f7e27006"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
